@@ -1,0 +1,2 @@
+shopifyapi
+pandas
