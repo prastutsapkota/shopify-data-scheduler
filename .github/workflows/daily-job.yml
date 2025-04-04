@@ -2,7 +2,7 @@ name: Daily Shopify Data Extractor
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '10 12 * * *'  # Runs at 12 PM UTC daily
   workflow_dispatch:
 
 jobs:
